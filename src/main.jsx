@@ -7,6 +7,7 @@ import { RouterProvider } from "react-router/dom";
 import Root from "./components/Root/Root.jsx";
 import Home from "./components/Home/Home.jsx";
 import Apps from "./components/Apps/Apps.jsx";
+import InstallationApps from "./components/InstallationApps/InstallationApps.jsx";
 
 const router = createBrowserRouter([
   {
@@ -23,7 +24,7 @@ const router = createBrowserRouter([
       },
       {
         path: "/installation-apps",
-        element: <Apps></Apps>,
+        element: <InstallationApps></InstallationApps>,
       },
     ],
   },

@@ -1,5 +1,8 @@
 import React, { useState } from "react";
-import { NavLink } from "react-router";
+import { Link, NavLink } from "react-router";
+import logoImg from "../../assets/logo.png";
+import { FaGithub } from "react-icons/fa";
+import { VscGithubAlt } from "react-icons/vsc";
 
 const Navbar = () => {
   const [active, setActive] = useState("home");
@@ -65,13 +68,33 @@ const Navbar = () => {
             {navLinks}{" "}
           </ul>
         </div>
-        <a className="btn btn-ghost text-xl">daisyUI</a>
+        <Link
+          onClick={() => setActive("home")}
+          to="/"
+          className="flex items-center"
+        >
+          <img className="w-12 h-12 " src={logoImg} alt="" />
+          <div
+            to="/"
+            className="btn btn-ghost text-violet-700 text-2xl font-bold"
+          >
+            HERO.IO
+          </div>
+        </Link>
       </div>
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1">{navLinks}</ul>
       </div>
       <div className="navbar-end">
-        <a className="btn">Button</a>
+        <Link
+          to="https://github.com/arhamchowdhury1218"
+          className="btn bg-gradient-to-r from-[#632EE3] to-[#9F62F2] flex items-center text-white font-medium"
+        >
+          <div className="text-xl">
+            <VscGithubAlt />
+          </div>
+          Contribute
+        </Link>
       </div>
     </div>
   );

@@ -1,7 +1,7 @@
 import React from "react";
 
 const InstallationApps = () => {
-  return <div>InstallationApps</div>;
+  return <div>Installation Apps</div>;
 };
 
 export default InstallationApps;
