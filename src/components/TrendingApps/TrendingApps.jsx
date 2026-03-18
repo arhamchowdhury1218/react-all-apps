@@ -1,4 +1,3 @@
-import React, { Suspense } from "react";
 import AppCard from "../AppCard/AppCard";
 import { Link } from "react-router";
 
@@ -11,13 +10,13 @@ const TrendingApps = ({ data }) => {
         <p className="text-center text-gray-500 mt-3">
           Explore All Trending Apps on the Market developed by us
         </p>
-        <Suspense fallback="Loadingggg...">
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
-            {eightDatas.map((app) => (
-              <AppCard key={app.id} app={app}></AppCard>
-            ))}
-          </div>
-        </Suspense>
+
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+          {eightDatas.map((app) => (
+            <AppCard key={app.id} app={app}></AppCard>
+          ))}
+        </div>
+
         <div className="w-25 mx-auto">
           <Link
             to="/apps"
