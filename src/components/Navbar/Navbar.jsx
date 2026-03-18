@@ -1,42 +1,40 @@
-import React, { useState } from "react";
 import { Link, NavLink } from "react-router";
 import logoImg from "../../assets/logo.png";
 import { FaGithub } from "react-icons/fa";
 import { VscGithubAlt } from "react-icons/vsc";
 
 const Navbar = () => {
-  const [active, setActive] = useState("home");
+  // const [active, setActive] = useState("home");
+  const activeClass = "text-violet-700 underline";
+  const inactiveClass = "hover:text-violet-700";
   const navLinks = (
     <>
-      <NavLink to="/">
-        <li
-          onClick={() => setActive("home")}
-          className={`mr-5 font-medium ${
-            active === "home" ? "text-violet-700 underline" : ""
-          }`}
-        >
-          Home
-        </li>
+      <NavLink
+        to="/"
+        end
+        className={({ isActive }) =>
+          `mr-5 font-medium ${isActive ? activeClass : inactiveClass}`
+        }
+      >
+        <li>Home</li>
       </NavLink>
-      <NavLink to="/apps">
-        <li
-          onClick={() => setActive("apps")}
-          className={`mr-5 font-medium ${
-            active === "apps" ? "text-violet-700 underline" : ""
-          }`}
-        >
-          Apps
-        </li>
+
+      <NavLink
+        to="/apps"
+        className={({ isActive }) =>
+          `mr-5 font-medium ${isActive ? activeClass : inactiveClass}`
+        }
+      >
+        <li>Apps</li>
       </NavLink>
-      <NavLink to="/installation-apps">
-        <li
-          onClick={() => setActive("installation-apps")}
-          className={`mr-5 font-medium ${
-            active === "installation-apps" ? "text-violet-700 underline" : ""
-          }`}
-        >
-          Installation
-        </li>
+
+      <NavLink
+        to="/installation-apps"
+        className={({ isActive }) =>
+          `mr-5 font-medium ${isActive ? activeClass : inactiveClass}`
+        }
+      >
+        <li>Installation</li>
       </NavLink>
     </>
   );
@@ -71,7 +69,7 @@ const Navbar = () => {
             </ul>
           </div>
           <Link
-            onClick={() => setActive("home")}
+            // onClick={() => setActive("home")}
             to="/"
             className="flex items-center"
           >

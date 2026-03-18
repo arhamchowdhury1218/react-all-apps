@@ -1,6 +1,7 @@
 import React, { Suspense } from "react";
 import { useLoaderData } from "react-router";
 import AppCard from "../AppCard/AppCard";
+import { CiSearch } from "react-icons/ci";
 
 const Apps = () => {
   const apps = useLoaderData();
@@ -13,15 +14,29 @@ const Apps = () => {
           Explore All Apps on the Market developed by us. We code for Millions
         </p>
         <div className="flex justify-between items-center mt-4">
-          <h1 className="text-2xl font-bold">
+          <h1 className="text-xl lg:text-2xl font-bold">
             <span>({apps.length}) </span>App Found
           </h1>
-          <input type="text" placeholder="Type here" className="input" />
+          <div>
+            <div className="relative w-full">
+              <input
+                type="text"
+                placeholder="Search Apps"
+                className="input w-full pl-10"
+              />
+
+              <CiSearch className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-900 text-xl" />
+            </div>
+          </div>
         </div>
         <h1 className="text-4xl font-bold text-center"></h1>
       </div>
       {
-        <Suspense fallback="Loadingggg...">
+        <Suspense
+          fallback={
+            <span className="loading loading-spinner loading-xl"></span>
+          }
+        >
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
             {apps.map((app) => (
               <AppCard key={app.id} app={app}></AppCard>

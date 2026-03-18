@@ -3,7 +3,6 @@ import AppCard from "../AppCard/AppCard";
 import { Link } from "react-router";
 
 const TrendingApps = ({ data }) => {
-  console.log(data);
   const eightDatas = data.slice(0, 8);
   return (
     <div>
@@ -21,7 +20,7 @@ const TrendingApps = ({ data }) => {
         </Suspense>
         <div className="w-25 mx-auto">
           <Link
-            to="https://github.com/arhamchowdhury1218"
+            to="/apps"
             className="btn bg-linear-to-r from-[#632EE3] to-[#9F62F2] flex items-center text-white font-medium"
           >
             Show ALL
