@@ -1,0 +1,722 @@
+[
+  {
+    "id": 1,
+    "title": "EduLearn Pro",
+    "companyName": "BrightMind Studios",
+    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b",
+    "description": "EduLearn Pro is a comprehensive educational platform designed to transform the way students and lifelong learners engage with knowledge. Whether you are a high school student preparing for college entrance exams, a university undergraduate tackling complex subjects, or a professional seeking to upskill, EduLearn Pro offers a rich library of interactive courses tailored to every level. The platform uses adaptive learning algorithms that personalize your study path based on your strengths and weaknesses, ensuring you spend more time on the topics that matter most. With thousands of video lessons, quizzes, flashcards, and practice tests, every concept is reinforced through multiple learning modalities. EduLearn Pro supports over 50 subjects ranging from mathematics, sciences, and literature to coding, finance, and foreign languages. The built-in AI tutor provides instant explanations and step-by-step guidance whenever you get stuck, making it feel like you have a personal teacher available around the clock. Gamification elements such as streaks, badges, leaderboards, and daily challenges keep motivation levels high and make studying genuinely enjoyable. Offline mode ensures you can continue learning even without an internet connection, syncing your progress automatically once you reconnect. The platform integrates with school management systems, allowing teachers to assign homework, track student progress, and generate detailed performance reports. Parents can monitor their child's learning journey through a dedicated family dashboard. Regular content updates ensure the curriculum stays aligned with the latest academic standards and real-world developments. With a vibrant community forum, students can collaborate, ask questions, and share resources with peers worldwide. EduLearn Pro is truly a one-stop learning ecosystem that combines cutting-edge technology with pedagogical best practices to deliver measurable, lasting educational outcomes for every user.",
+    "size": 85,
+    "reviews": 12400,
+    "ratingAvg": 4.7,
+    "downloads": "0.98M",
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 340 },
+      { "name": "3 star", "count": 890 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 7760 }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "StudyBuddy",
+    "companyName": "Nexora Learning",
+    "image": "https://images.unsplash.com/photo-1529070538774-1843cb3265df",
+    "description": "StudyBuddy reimagines the traditional study experience by pairing intelligent technology with community-driven collaboration. Built for students of all ages, StudyBuddy creates a structured yet flexible environment where learning feels natural and engaging. At its core, the app features AI-powered note summarization that condenses lengthy textbook chapters into concise, digestible summaries without losing critical information. Users can upload their own notes, PDFs, or textbook images and let the smart engine generate flashcards, quizzes, and mind maps automatically. The spaced repetition system schedules reviews at scientifically optimal intervals, dramatically improving long-term memory retention. StudyBuddy's real-time group study rooms allow classmates to study together virtually, share screens, collaborate on digital whiteboards, and quiz each other in a fun, competitive atmosphere. The built-in Pomodoro timer helps users maintain focus by structuring study sessions into productive intervals with scheduled breaks. Detailed analytics provide insights into your study habits, showing which subjects you spend the most time on, your quiz accuracy over time, and your overall consistency. Teachers and tutors can create custom courses, assign tasks, and provide feedback directly within the platform. The goal-setting feature lets users define weekly study targets and tracks progress with satisfying visual indicators. A daily question challenge sharpens critical thinking skills across a variety of disciplines. StudyBuddy also supports integration with popular calendar apps so your study schedule stays in sync with your broader life. The clean, distraction-free interface is designed to minimize cognitive load, allowing students to enter a flow state quickly. Available across iOS, Android, and web browsers, StudyBuddy ensures your study materials are always accessible, no matter where you are. Join millions of students worldwide who have already made StudyBuddy their go-to academic companion.",
+    "size": 62,
+    "reviews": 8750,
+    "ratingAvg": 4.5,
+    "downloads": "0.65M",
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 270 },
+      { "name": "3 star", "count": 750 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 4750 }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "MathMaster",
+    "companyName": "Calculus Corp",
+    "image": "https://images.unsplash.com/photo-1519452575419-c9e0b0a3d9c0",
+    "description": "MathMaster is the ultimate mathematics learning application designed for students from elementary school through university level. The app covers the full spectrum of mathematical disciplines, including arithmetic, algebra, geometry, trigonometry, calculus, statistics, and discrete mathematics. Each topic is presented through a carefully crafted progression of lessons that build foundational understanding before advancing to more complex concepts. MathMaster's signature feature is its step-by-step problem solver, which doesn't just give you the answer but walks you through every single step of the solution process, explaining the reasoning behind each mathematical operation. This approach develops genuine problem-solving skills rather than promoting rote memorization. The interactive graphing tool allows students to visualize functions, equations, and geometric shapes in real time, making abstract concepts tangible and easier to grasp. Thousands of practice problems categorized by difficulty level ensure students can challenge themselves appropriately and build confidence incrementally. The app includes dedicated exam preparation modules for standardized tests such as the SAT, ACT, GRE, and various national curricula. A camera-based equation scanner lets users photograph handwritten math problems and receive instant digital solutions and explanations. The diagnostic assessment feature identifies knowledge gaps and creates a customized learning plan to address weak areas efficiently. MathMaster's gamified challenge mode lets users compete against peers in timed math battles, making practice exciting and motivating. Progress reports are detailed and actionable, helping both students and parents understand exactly where improvement is needed. Regular new problem sets are added weekly to keep the content fresh and challenging. Whether you are struggling with basic fractions or mastering multivariable calculus, MathMaster provides the tools, guidance, and encouragement to help every student achieve mathematical confidence and excellence.",
+    "size": 74,
+    "reviews": 15600,
+    "ratingAvg": 4.8,
+    "downloads": "1.2M",
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 290 },
+      { "name": "3 star", "count": 960 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 10000 }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "LinguaFlow",
+    "companyName": "Polyglot Technologies",
+    "image": "https://images.unsplash.com/photo-1584697964404-167ffdb23669",
+    "description": "LinguaFlow is a next-generation language learning platform that makes acquiring a new language feel effortless, immersive, and genuinely fun. Supporting over 35 languages including Spanish, French, Mandarin, Japanese, Arabic, German, and many more, LinguaFlow caters to beginners, intermediate learners, and advanced speakers looking to refine their fluency. The app's core learning methodology is built on contextual immersion, meaning you learn vocabulary and grammar through real-life conversations, stories, and scenarios rather than dry memorization exercises. The AI-powered speech recognition engine listens to your pronunciation in real time, providing immediate, nuanced feedback that helps you sound like a native speaker faster than traditional methods. LinguaFlow's story-based curriculum presents engaging narratives set in authentic cultural contexts, helping you learn not just the language but also the cultural nuances that make communication truly effective. Daily bite-sized lessons fit into even the busiest schedule, and streak mechanics keep you coming back every day. The live conversation practice feature connects you with certified native speaker tutors or AI conversation partners for structured speaking practice sessions. Vocabulary is reinforced through spaced repetition, ensuring words move from short-term to long-term memory efficiently. Grammar lessons are woven naturally into content rather than presented as isolated rules, making them easier to internalize and apply. An offline mode ensures you can practice anytime, anywhere, without relying on a data connection. LinguaFlow also offers specialized tracks for business language, travel phrases, and academic writing. The vibrant learner community allows you to connect with fellow language enthusiasts, participate in language exchange programs, and celebrate milestones together. Whether your goal is to travel confidently, advance your career, or simply enjoy the richness of another culture, LinguaFlow is your ideal language learning companion.",
+    "size": 95,
+    "reviews": 22100,
+    "ratingAvg": 4.6,
+    "downloads": "3.5M",
+    "ratings": [
+      { "name": "1 star", "count": 320 },
+      { "name": "2 star", "count": 510 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 7400 },
+      { "name": "5 star", "count": 12070 }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "ScienceQuest",
+    "companyName": "Discovery Labs Inc",
+    "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7",
+    "description": "ScienceQuest brings the wonders of the natural world to life through an immersive, inquiry-based learning experience designed for students aged 10 to 18. Covering biology, chemistry, physics, earth science, and environmental science, ScienceQuest transforms abstract scientific concepts into interactive, hands-on virtual experiments that spark curiosity and deepen understanding. The app's virtual laboratory allows students to conduct experiments that would be impossible, dangerous, or impractical in a real classroom setting — from splitting atoms to dissecting virtual organisms — all within a safe, fully interactive digital environment. Each experiment comes with pre-lab preparation materials, guided observation tasks, and post-lab analysis questions that mirror real scientific methodology. ScienceQuest's 3D model viewer brings complex biological structures, molecular arrangements, and geological formations to life with stunning detail, allowing students to rotate, zoom in, and annotate models to enhance comprehension. The curriculum is aligned with international science standards including NGSS, IB, and Cambridge frameworks, making it suitable for students across different countries and school systems. Animated explainer videos break down challenging concepts like cellular respiration, quantum mechanics, and tectonic plate movement into clear, engaging narratives. The app's career exploration module introduces students to real scientists and STEM professionals, providing inspiration and context for why science matters beyond the classroom. Regular science news updates connect curriculum content to current events and cutting-edge research, keeping students aware of the rapidly evolving scientific landscape. Collaborative project tools allow student teams to design and present science fair projects digitally. ScienceQuest's adaptive quiz engine targets areas of weakness and celebrates mastery, building the confidence every young scientist needs. With ScienceQuest, science education moves from passive reading to active discovery.",
+    "size": 110,
+    "reviews": 9300,
+    "ratingAvg": 4.4,
+    "downloads": "0.72M",
+    "ratings": [
+      { "name": "1 star", "count": 240 },
+      { "name": "2 star", "count": 380 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 4380 }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "ReadSmart",
+    "companyName": "Literate AI",
+    "image": "https://images.unsplash.com/photo-1519074002996-a69e7ac46a42",
+    "description": "ReadSmart is a revolutionary reading comprehension and literacy development app that uses artificial intelligence to personalize the reading experience for users of all ages and skill levels. Whether you are a young child just beginning to decode words, a middle schooler building vocabulary, or an adult looking to read faster and retain more, ReadSmart adapts dynamically to your current level and learning objectives. The app's vast library contains over 10,000 texts spanning fiction, non-fiction, science articles, historical documents, poetry, and news stories, all carefully leveled and tagged by topic, genre, and complexity. As you read, the AI monitors your pace, accuracy, and comprehension, subtly adjusting the difficulty of subsequent texts to keep you in the optimal learning zone. Vocabulary enrichment tools allow you to tap any unfamiliar word for instant definitions, example sentences, etymology, and contextual usage, with the word automatically added to your personal vocabulary list for spaced repetition review. The text-to-speech feature reads aloud with natural, expressive voices, supporting auditory learners and helping develop fluent oral reading skills. ReadSmart's comprehension check system uses adaptive questioning to assess understanding at multiple levels, from literal recall to critical analysis and inference. The writing response feature invites users to reflect on what they have read, with AI feedback on grammar, coherence, and depth of analysis. Teachers can create reading assignments, monitor class progress, and differentiate instruction easily through the educator dashboard. Parents receive weekly literacy reports showing their child's reading level progression over time. The app includes a curated reading list feature that recommends books and articles based on your interests and learning goals. ReadSmart makes developing a lifelong love of reading both achievable and measurable.",
+    "size": 68,
+    "reviews": 7200,
+    "ratingAvg": 4.5,
+    "downloads": "0.54M",
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 220 },
+      { "name": "3 star", "count": 840 },
+      { "name": "4 star", "count": 2400 },
+      { "name": "5 star", "count": 3600 }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "CodeKids Academy",
+    "companyName": "TechSprout Labs",
+    "image": "https://images.unsplash.com/photo-1524499982521-1ffd58dd89ea",
+    "description": "CodeKids Academy is an award-winning coding education platform designed specifically for children and teenagers aged 6 to 17. The app introduces programming concepts through a fun, story-driven environment where kids embark on adventurous quests, solve puzzles, and build their own digital creations — all while learning real coding skills. The curriculum begins with block-based visual programming for younger learners, gradually transitioning to text-based languages including Scratch, Python, HTML/CSS, and JavaScript as students advance. Each lesson is meticulously designed by experienced educators and professional developers to ensure concepts are introduced in an age-appropriate, logically sequenced manner. The app's sandbox environment gives kids the freedom to experiment, make mistakes, and discover solutions independently, fostering computational thinking and creative problem-solving. Project-based learning challenges students to build real apps, games, animations, and websites that they can share with friends and family, giving a tangible sense of accomplishment. An AI coding assistant provides hints and guidance when students get stuck, encouraging persistence without simply handing over the answer. The progress system awards certificates of completion for each module, which can be printed or shared digitally to celebrate achievements. Live group coding workshops hosted by professional developers give students the opportunity to work on collaborative projects and ask real-world questions. Parent and teacher dashboards provide full visibility into each child's progress, time spent coding, and projects completed. The platform is entirely ad-free and child-safe, with strict privacy controls and no in-app purchases beyond the subscription. CodeKids Academy has helped over two million children worldwide discover the joy of coding and develop the digital skills that will be essential for careers in the 21st-century economy.",
+    "size": 88,
+    "reviews": 18900,
+    "ratingAvg": 4.9,
+    "downloads": "2.1M",
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 540 },
+      { "name": "4 star", "count": 4800 },
+      { "name": "5 star", "count": 13310 }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "HistoryVault",
+    "companyName": "Epoch Education",
+    "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765",
+    "description": "HistoryVault is an immersive history education app that brings the past to life through rich storytelling, interactive timelines, and visually stunning multimedia content. Designed for students, history enthusiasts, and curious minds of all ages, HistoryVault transforms the study of history from a passive memorization exercise into an active exploration of humanity's greatest stories, pivotal moments, and enduring legacies. The app's content spans all major historical periods and civilizations, from prehistoric societies and ancient empires to the Renaissance, Industrial Revolution, World Wars, and contemporary history. Each topic is presented through narrative-driven lessons that read like compelling stories, supported by primary source documents, historical photographs, maps, and archival footage that ground the content in authentic evidence. The interactive timeline feature allows users to explore history chronologically or thematically, discovering connections across different regions, cultures, and time periods. HistoryVault's augmented reality feature overlays historical reconstructions onto real-world locations, allowing users to see how ancient cities, battlefields, and monuments looked centuries ago. Critical thinking exercises challenge students to analyze historical evidence, evaluate different perspectives, and construct well-reasoned historical arguments. The app includes dedicated preparation modules for major history examinations including AP World History, GCSE History, and IB History. A curated documentary library provides access to high-quality video content from leading historical filmmakers and educational institutions. The biography collection profiles over 500 influential historical figures with detailed, nuanced portraits that go beyond textbook summaries. Discussion forums moderated by history educators allow students to debate historical interpretations and share research. HistoryVault makes history not just a subject to study but a living, breathing conversation across time.",
+    "size": 120,
+    "reviews": 6800,
+    "ratingAvg": 4.6,
+    "downloads": "0.43M",
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 190 },
+      { "name": "3 star", "count": 680 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 3620 }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "CareerPath Mentor",
+    "companyName": "FutureForge Inc",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2",
+    "description": "CareerPath Mentor is a comprehensive professional development and career guidance platform that empowers individuals at every stage of their career journey, from recent graduates entering the workforce to seasoned professionals navigating career transitions. The app combines AI-powered career counseling with expert-curated learning resources to create a deeply personalized roadmap toward professional success. The onboarding assessment analyzes your skills, interests, values, and work style to recommend career paths and roles that align with who you truly are, not just what looks impressive on paper. The skills gap analysis tool compares your current competencies against the requirements of your target roles and generates a structured learning plan with course recommendations, certifications, and practical projects to bridge the gap efficiently. CareerPath Mentor's resume builder uses AI to craft compelling, ATS-optimized resumes and cover letters tailored to specific job descriptions. The interview preparation module provides practice questions, model answers, and real-time coaching on your response delivery, helping you present your best self in high-pressure situations. A curated library of professional development courses covers leadership, communication, project management, data analysis, negotiation, and dozens of other critical workplace skills. The mentor matching feature connects you with experienced professionals in your target industry for one-on-one guidance and networking. Real-time job market insights keep you informed about in-demand skills, salary benchmarks, and emerging opportunities in your field. The goal-tracking dashboard helps you stay accountable to your professional development commitments with weekly check-ins and milestone celebrations. CareerPath Mentor has helped hundreds of thousands of users land their dream jobs, earn promotions, and build fulfilling, purpose-driven careers.",
+    "size": 78,
+    "reviews": 11200,
+    "ratingAvg": 4.7,
+    "downloads": "0.87M",
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 270 },
+      { "name": "3 star", "count": 850 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 6400 }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "MindMap Creator",
+    "companyName": "Cognify Tools",
+    "image": "https://images.unsplash.com/photo-1492724441997-5dc865305da4",
+    "description": "MindMap Creator is a powerful visual thinking and knowledge organization tool that helps students, educators, professionals, and creative thinkers transform complex ideas into clear, structured visual representations. At its core, MindMap Creator offers an intuitive drag-and-drop canvas where users can quickly build hierarchical mind maps, concept maps, flowcharts, and idea webs without any design experience required. The AI-assisted brainstorming feature suggests related concepts, sub-topics, and connections as you build your map, helping overcome mental blocks and discover new angles on your subject. Templates for dozens of use cases — including essay planning, project management, book summaries, lecture notes, and creative brainstorming — give users a head start and reduce the friction of starting from a blank canvas. Rich customization options including color coding, icons, images, links, and notes allow users to create maps that are as informative as they are visually compelling. Real-time collaboration enables multiple users to work on the same mind map simultaneously, making it an invaluable tool for team brainstorming sessions and group study. The one-click export feature converts your mind map into a structured outline, presentation slide deck, or written summary, dramatically speeding up the transition from ideas to finished work. Integration with popular note-taking apps, cloud storage services, and learning management systems keeps your knowledge ecosystem connected and organized. The version history feature allows you to review and restore previous iterations of your maps, giving you the freedom to experiment without fear of losing your work. MindMap Creator's clean, beautiful interface makes the act of organizing knowledge genuinely enjoyable, turning complex thinking into a visual art form.",
+    "size": 55,
+    "reviews": 9100,
+    "ratingAvg": 4.5,
+    "downloads": "0.76M",
+    "ratings": [
+      { "name": "1 star", "count": 170 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 910 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 4760 }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "FocusFlow",
+    "companyName": "ZenWork Solutions",
+    "image": "https://images.unsplash.com/photo-1588702547923-7093a6c3ba33",
+    "description": "FocusFlow is a premium productivity app built for individuals who want to achieve deep work, eliminate distractions, and accomplish their most important goals with clarity and intention. In an era of constant notifications and fragmented attention, FocusFlow provides a structured, science-backed framework for reclaiming your focus and making meaningful progress every single day. The app's flagship feature is its intelligent task management system, which helps you prioritize your to-do list based on urgency, importance, and your personal energy levels throughout the day. Rather than simply listing tasks, FocusFlow guides you through a daily planning ritual that aligns your work with your highest priorities and long-term objectives. The integrated Pomodoro-style focus timer is fully customizable, allowing you to set work intervals and break durations that match your natural rhythm. During focus sessions, the distraction blocker prevents access to time-wasting websites and apps, creating a protected environment for deep, uninterrupted work. A built-in ambient sound library offers a curated selection of focus-enhancing soundscapes including rain, white noise, binaural beats, and nature sounds, scientifically designed to boost concentration and reduce cognitive fatigue. FocusFlow's analytics dashboard provides rich insights into your productivity patterns, showing when you are most productive, which tasks take longer than expected, and how consistently you achieve your daily goals. The weekly review feature prompts you to reflect on accomplishments, identify obstacles, and set intentions for the upcoming week. Calendar integration ensures your focus sessions are scheduled around your commitments. FocusFlow's minimalist, distraction-free design reflects its philosophy: less clutter, more clarity. Thousands of professionals, students, and entrepreneurs trust FocusFlow to help them do their best work consistently.",
+    "size": 42,
+    "reviews": 14500,
+    "ratingAvg": 4.8,
+    "downloads": "1.8M",
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 220 },
+      { "name": "3 star", "count": 750 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 9200 }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "TaskMaster Pro",
+    "companyName": "Orbital Productivity",
+    "image": "https://images.unsplash.com/photo-1516321497487-e288fb19713f",
+    "description": "TaskMaster Pro is a sophisticated project and task management platform designed for individuals, teams, and organizations that demand more from their productivity tools. Combining the flexibility of a personal to-do app with the power of enterprise project management software, TaskMaster Pro scales effortlessly from managing your personal daily tasks to coordinating complex multi-team projects with dozens of stakeholders. The app's core is built around a highly customizable workspace where you can organize work using lists, Kanban boards, Gantt charts, calendars, and timeline views — switching between perspectives to suit your workflow and current needs. Smart task dependencies ensure the right work is done in the right order, with automatic notifications when a prerequisite is completed and a subsequent task can begin. The natural language input feature allows you to create and schedule tasks simply by typing phrases like and letting the AI parse and assign the details. Recurring task templates save time on repetitive workflows, ensuring nothing falls through the cracks. Collaborative features including shared workspaces, task assignments, comment threads, file attachments, and real-time activity feeds make team coordination seamless and transparent. The workload view gives managers a clear overview of each team member's capacity, preventing burnout and enabling smarter task distribution. Integration with over 100 popular tools including Slack, Google Workspace, Microsoft 365, GitHub, and Zapier connects TaskMaster Pro to the tools your team already uses. Advanced reporting generates actionable insights into team productivity, project velocity, and bottleneck identification. With powerful automation rules that trigger actions based on task status changes, TaskMaster Pro reduces manual administrative work and keeps projects moving forward automatically.",
+    "size": 66,
+    "reviews": 19800,
+    "ratingAvg": 4.7,
+    "downloads": "2.4M",
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 380 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 12000 }
+    ]
+  },
+  {
+    "id": 13,
+    "title": "WorkSpaceAI",
+    "companyName": "Synapse Digital",
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+    "description": "WorkSpaceAI is a next-generation AI-powered productivity suite that fundamentally reimagines how knowledge workers organize information, collaborate with teams, and manage their professional workflows. Unlike traditional productivity tools that simply help you organize tasks, WorkSpaceAI acts as an intelligent work partner that actively learns your habits, anticipates your needs, and takes on cognitive burdens so you can focus on the creative and strategic work that truly requires human judgment. The platform's AI writing assistant helps you draft emails, reports, presentations, and documents with remarkable speed and quality, adapting to your personal voice and communication style over time. Smart meeting management tools transcribe calls in real time, extract action items, assign follow-up tasks automatically, and generate concise meeting summaries that ensure nothing important is forgotten. The intelligent filing system analyzes your documents and automatically organizes them into a logical hierarchy, making retrieval effortless through natural language search. WorkSpaceAI's context engine connects your emails, documents, calendar, and task list to give you a unified view of everything related to any project or contact, eliminating the frustrating context-switching between multiple tools. Team knowledge bases are automatically enriched as users work, capturing institutional knowledge and making it searchable and accessible to the entire organization. Workflow automation tools let you build no-code automations that handle repetitive administrative processes, freeing up hours each week. Privacy and security are paramount, with enterprise-grade encryption and granular access controls ensuring sensitive information stays protected. WorkSpaceAI continuously improves through machine learning, becoming smarter and more personalized the more you use it. It is not just a productivity tool — it is a competitive advantage.",
+    "size": 92,
+    "reviews": 7600,
+    "ratingAvg": 4.4,
+    "downloads": "0.58M",
+    "ratings": [
+      { "name": "1 star", "count": 190 },
+      { "name": "2 star", "count": 310 },
+      { "name": "3 star", "count": 980 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 3620 }
+    ]
+  },
+  {
+    "id": 14,
+    "title": "NoteNest",
+    "companyName": "PaperTree Apps",
+    "image": "https://images.unsplash.com/photo-1551844548-1ddead371f8d",
+    "description": "NoteNest is an elegant, powerful note-taking application designed for thinkers, writers, researchers, and students who need a flexible yet organized space to capture and develop their ideas. Built on the philosophy that the best note-taking tool is one that gets out of your way, NoteNest combines a beautifully minimal writing experience with sophisticated organizational and retrieval capabilities. Notes can be composed in rich text, plain markdown, or a hybrid format, giving writers the flexibility to work in whatever style feels most natural. The hierarchical notebook structure with unlimited nesting allows you to organize notes exactly how your mind works, whether that is by project, subject, date, or any other taxonomy you prefer. Tags and bi-directional links create a web of interconnected ideas that grows more valuable over time, forming a personal knowledge graph that surfaces unexpected connections between thoughts and topics. The powerful full-text search engine finds any note instantly, even searching within handwritten notes and scanned documents using OCR technology. Web clipper integration allows you to save articles, web pages, and social media posts directly into your notebook with a single click, building a rich research archive over time. NoteNest's distraction-free writing mode strips away the interface to leave nothing but your words and thoughts, perfect for focused writing sessions. Seamless sync across all devices ensures your notes are always up to date whether you are on your phone, tablet, or computer. Collaboration features allow you to share notebooks with colleagues, add comments, and work on notes together in real time. Regular automated backups and version history give you peace of mind that your thinking is always safe. NoteNest is where your best ideas come to live.",
+    "size": 48,
+    "reviews": 16700,
+    "ratingAvg": 4.6,
+    "downloads": "3.2M",
+    "ratings": [
+      { "name": "1 star", "count": 260 },
+      { "name": "2 star", "count": 390 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 5400 },
+      { "name": "5 star", "count": 9250 }
+    ]
+  },
+  {
+    "id": 15,
+    "title": "TeamSync",
+    "companyName": "Collabify Inc",
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+    "description": "TeamSync is a comprehensive team collaboration platform that brings together communication, project management, file sharing, and workflow automation into one unified workspace, eliminating the fragmentation and confusion that plague modern distributed teams. Designed for teams of all sizes from nimble startups to large enterprises, TeamSync provides the structure and flexibility needed to work together effectively regardless of location, time zone, or work style. The platform's organized channel system groups conversations by team, project, or topic, ensuring discussions stay contextual and searchable rather than scattered across endless email threads. Threaded messaging and rich text formatting make it easy to have structured, clear conversations that can be referenced months later. The integrated video and audio conferencing system supports spontaneous one-on-one calls, scheduled team meetings, and large-scale all-hands broadcasts without requiring external tools. Project boards within TeamSync use a hybrid Kanban and list system that gives teams visual clarity on project status, upcoming deadlines, and individual responsibilities. The document co-editing feature allows multiple team members to work on the same document simultaneously with real-time cursor tracking and version control. An intelligent notification system learns your preferences and filters out noise, ensuring you only receive alerts that genuinely require your attention. TeamSync's guest access feature allows external contractors, clients, and partners to be included in specific channels without accessing the broader workspace. Advanced analytics provide managers with insights into team engagement, communication patterns, and project health metrics. With single sign-on, directory sync, and compliance archiving capabilities, TeamSync meets the security and administrative requirements of enterprise IT departments. TeamSync is where effective teamwork begins.",
+    "size": 83,
+    "reviews": 12900,
+    "ratingAvg": 4.5,
+    "downloads": "1.5M",
+    "ratings": [
+      { "name": "1 star", "count": 230 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 7020 }
+    ]
+  },
+  {
+    "id": 16,
+    "title": "DevBoard",
+    "companyName": "CodeStream Technologies",
+    "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d",
+    "description": "DevBoard is a specialized project management and collaboration platform designed exclusively for software development teams who need tools that speak the language of code. Unlike generic project management solutions that developers reluctantly adapt to their workflows, DevBoard is built from the ground up by developers for developers, with deep integration into the tools and processes that power modern software engineering. The platform's sprint planning tools use story point estimation, velocity tracking, and capacity planning to help agile teams plan and execute sprints with precision. GitHub, GitLab, and Bitbucket integrations automatically link commits, pull requests, and code reviews to the corresponding issues and tasks in DevBoard, creating a seamless connection between code and project management. The intelligent issue tracker provides rich templates for bug reports, feature requests, and technical debt items, ensuring every piece of work is captured with sufficient context for efficient triage and resolution. A powerful roadmap view gives product managers and engineering leaders visibility into upcoming releases, feature timelines, and team capacity across multiple projects simultaneously. Code review workflows built into DevBoard streamline the pull request process with structured feedback forms, approval gates, and automated merge checklists. Incident management tools provide a structured response framework for production issues, with automated status page updates, stakeholder notifications, and detailed post-incident review templates. DevBoard's reporting suite delivers engineering metrics including cycle time, lead time, deployment frequency, and change failure rate — the key indicators of engineering effectiveness. The developer experience dashboard gives each engineer a personalized view of their tasks, code reviews, and blockers for the day. DevBoard is the command center for high-performing engineering teams.",
+    "size": 72,
+    "reviews": 8400,
+    "ratingAvg": 4.7,
+    "downloads": "0.69M",
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 680 },
+      { "name": "4 star", "count": 2600 },
+      { "name": "5 star", "count": 4800 }
+    ]
+  },
+  {
+    "id": 17,
+    "title": "DataDash Analytics",
+    "companyName": "Metric Labs",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+    "description": "DataDash Analytics is a powerful business intelligence and data visualization platform that empowers organizations of all sizes to transform raw data into clear, actionable insights without requiring a data science degree. In today's data-driven business environment, the ability to quickly understand what your numbers are telling you is a critical competitive advantage, and DataDash makes that capability accessible to everyone in your organization, from the executive suite to frontline managers. The platform connects to hundreds of data sources including databases, spreadsheets, SaaS applications, APIs, and data warehouses, consolidating your data in one place for unified analysis. The drag-and-drop dashboard builder allows anyone to create professional, interactive dashboards in minutes, choosing from dozens of chart types, tables, maps, and custom visualizations. Smart data transformation tools clean, reshape, and enrich your data automatically, handling the tedious preparation work that typically consumes the majority of analysts' time. AI-powered anomaly detection continuously monitors your key metrics and alerts you to unusual patterns or unexpected changes before they become serious problems. The natural language query interface allows users to simply type questions like and receive an instant, accurate visualization — no SQL required. Scheduled reports automatically compile and distribute data summaries to stakeholders via email or messaging apps on whatever cadence they prefer. Row-level security and role-based access controls ensure each user sees only the data they are authorized to view. Collaboration tools including shared dashboards, annotations, and version history make it easy for teams to work together on analysis projects. DataDash Analytics makes data a shared language across your entire organization.",
+    "size": 87,
+    "reviews": 6200,
+    "ratingAvg": 4.5,
+    "downloads": "0.48M",
+    "ratings": [
+      { "name": "1 star", "count": 140 },
+      { "name": "2 star", "count": 230 },
+      { "name": "3 star", "count": 730 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 3100 }
+    ]
+  },
+  {
+    "id": 18,
+    "title": "TimeCraft",
+    "companyName": "Chronos Apps",
+    "image": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f",
+    "description": "TimeCraft is a sophisticated time tracking and management application built for freelancers, consultants, agencies, and any professional who needs accurate, effortless time records for billing, productivity analysis, or personal accountability. The app's one-tap timer makes starting and stopping time tracking so frictionless that it becomes a natural part of your workflow rather than an administrative chore. Intelligent auto-tracking analyzes your computer activity, calendar events, and app usage to reconstruct your day automatically, catching time that manual tracking would have missed. Projects and clients are organized in a clean hierarchy, with customizable billing rates and budgets that allow you to track both time and financial performance across every engagement. Detailed timesheets can be generated instantly in multiple formats for client invoicing or internal reporting, saving hours of manual compilation each billing cycle. The visual timeline view gives you a beautiful, bird's-eye view of how your time is distributed throughout the day, week, or month, making patterns and inefficiencies immediately apparent. Team time tracking features allow managers to monitor hours, approve timesheets, and analyze workload distribution across their entire staff. Budget alerts notify you when a project is approaching its allocated hours, allowing proactive conversations with clients before overage becomes an issue. Integration with invoicing tools, accounting software, and project management platforms creates a seamless workflow from time tracking to payment. TimeCraft's weekly insights highlight your most and least productive periods, helping you schedule your most demanding work during your peak performance hours. TimeCraft gives you the clarity to understand where your time truly goes — and the power to direct it more intentionally.",
+    "size": 36,
+    "reviews": 10300,
+    "ratingAvg": 4.6,
+    "downloads": "1.1M",
+    "ratings": [
+      { "name": "1 star", "count": 160 },
+      { "name": "2 star", "count": 240 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 3300 },
+      { "name": "5 star", "count": 5800 }
+    ]
+  },
+  {
+    "id": 19,
+    "title": "RemoteOffice Hub",
+    "companyName": "Distributed Works",
+    "image": "https://images.unsplash.com/photo-1573164574572-cb89e39749b4",
+    "description": "RemoteOffice Hub is the definitive all-in-one platform for remote and distributed teams, combining every tool needed to run a high-performing virtual office into a single, beautifully designed workspace. As remote work has become a permanent feature of the modern professional landscape, the need for tools that replicate the spontaneity, structure, and culture of an in-person office has never been greater — and RemoteOffice Hub was built to meet that need comprehensively. The platform's virtual office environment creates a persistent digital space where team members have presence indicators, can see who is available, and can initiate spontaneous conversations with a single click — recreating the casual hallway interactions that make in-person offices valuable. Structured daily standup rituals with async video updates allow geographically dispersed teams to stay aligned on priorities and progress without requiring everyone to be online simultaneously. The team directory profiles each member with their time zone, working hours, current project, skills, and interests, fostering the personal connections that make remote teams cohesive. Meeting intelligence tools record, transcribe, and summarize video calls automatically, ensuring decisions and action items are captured and accessible to anyone who could not attend live. The async project collaboration tools — including comment threads on documents, video messages, and annotated screen recordings — enable rich, high-context communication without the overhead of scheduling another meeting. Culture-building features including virtual coffee chats, team celebrations, peer recognition programs, and interest-based channels help combat the isolation that remote workers often experience. Manager dashboards provide real-time visibility into team wellbeing, engagement, and productivity without invasive monitoring. RemoteOffice Hub makes distance irrelevant for great teamwork.",
+    "size": 96,
+    "reviews": 5800,
+    "ratingAvg": 4.4,
+    "downloads": "0.42M",
+    "ratings": [
+      { "name": "1 star", "count": 170 },
+      { "name": "2 star", "count": 280 },
+      { "name": "3 star", "count": 850 },
+      { "name": "4 star", "count": 1900 },
+      { "name": "5 star", "count": 2600 }
+    ]
+  },
+  {
+    "id": 20,
+    "title": "BrainBoost IQ",
+    "companyName": "NeuroPeak Labs",
+    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b",
+    "description": "BrainBoost IQ is a scientifically designed cognitive training application that helps users strengthen core mental abilities including memory, attention, processing speed, problem-solving, and cognitive flexibility through engaging, evidence-based exercises. Drawing on decades of neuroscience and cognitive psychology research, BrainBoost IQ delivers a personalized daily training program that adapts to your performance and progressively challenges your brain across multiple cognitive domains. The app opens with a comprehensive baseline cognitive assessment that establishes your current abilities across all major mental faculties, providing a clear starting point for measuring your progress over time. Each training session consists of a curated set of exercises carefully selected to target your personal development areas while maintaining engagement and enjoyment. The exercises themselves are designed to be challenging in exactly the right way — difficult enough to stimulate genuine cognitive growth but rewarding enough to keep you coming back. Memory training games strengthen both working memory and long-term recall through visual, verbal, and spatial challenges of increasing complexity. Attention and focus exercises sharpen your ability to maintain concentration under conditions of distraction, a critically important skill in today's attention economy. Processing speed drills help your brain respond more quickly and accurately, with benefits that extend to reading, reaction time, and decision-making in everyday life. Creative thinking challenges stimulate lateral reasoning and novel problem-solving approaches. Progress tracking provides granular data on your cognitive performance trends over weeks and months, with clear visualizations showing improvement across each domain. BrainBoost IQ also provides a daily mindfulness component that prepares your brain for optimal learning and performance. Your brain is your most valuable asset — invest in it with BrainBoost IQ.",
+    "size": 58,
+    "reviews": 13400,
+    "ratingAvg": 4.6,
+    "downloads": "1.4M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 320 },
+      { "name": "3 star", "count": 980 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 7700 }
+    ]
+  },
+  {
+    "id": 21,
+    "title": "QuizArena",
+    "companyName": "Trivia Masters Co",
+    "image": "https://images.unsplash.com/photo-1529070538774-1843cb3265df",
+    "description": "QuizArena is a dynamic educational quiz platform that transforms knowledge testing into an exhilarating, competitive, and deeply engaging experience for learners of all ages and backgrounds. Whether you are preparing for a school exam, sharpening your general knowledge, or simply enjoying a fun intellectual challenge with friends, QuizArena offers a rich, constantly updated library of quizzes across hundreds of topics including science, history, geography, pop culture, sports, technology, and more. The live multiplayer battle mode pits players against each other in real-time knowledge duels where quick thinking and accurate recall are equally rewarded, creating an electric atmosphere that makes studying feel more like a sport than a chore. Tournaments bracket players by skill level and knowledge category, culminating in championship events with leaderboard rankings and prizes. The adaptive difficulty engine calibrates question difficulty to your performance history, ensuring you are always challenged at the right level. Custom quiz creation tools allow teachers to build tailored assessments aligned with specific curriculum units, assign them to classes, and review results with detailed analytics. The daily challenge feature presents a fresh set of curated questions each day, rewarding streak players with exclusive badges and achievements. Social features including friend challenges, team quizzes, and global leaderboards foster a vibrant community of curious, competitive learners. Detailed explanations accompany every question, turning each wrong answer into a valuable learning moment rather than a frustrating dead end. QuizArena's content library is continuously expanded by a dedicated team of educators and domain experts, ensuring the knowledge tested is accurate, current, and educationally meaningful. Make learning competitive with QuizArena.",
+    "size": 52,
+    "reviews": 24600,
+    "ratingAvg": 4.8,
+    "downloads": "4.2M",
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 320 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 6800 },
+      { "name": "5 star", "count": 16200 }
+    ]
+  },
+  {
+    "id": 22,
+    "title": "PlannerGenius",
+    "companyName": "Horizon Apps",
+    "image": "https://images.unsplash.com/photo-1519452575419-c9e0b0a3d9c0",
+    "description": "PlannerGenius is an intelligent personal planning and scheduling application that helps individuals design productive, balanced days that align with their goals, values, and energy levels. Going far beyond a simple calendar, PlannerGenius acts as a thoughtful personal assistant that helps you think through your priorities, allocate time intentionally, and build the daily habits that lead to long-term success. The app's signature weekly planning wizard guides you through a structured reflection process each Sunday, helping you review the past week's accomplishments and setbacks, clarify your most important goals for the coming week, and map out your schedule with deliberate intention. Daily planning sessions take just five minutes but create a powerful sense of direction and purpose that transforms how you approach each day. Time blocking tools allow you to visually fill your calendar with focused work blocks, meetings, personal commitments, and recovery time, creating a realistic picture of your capacity and preventing over-scheduling. The energy management system helps you understand your natural productivity peaks and troughs throughout the day, recommending the optimal times for demanding cognitive work, routine tasks, and creative thinking based on your self-reported energy patterns. Habit tracking integration lets you attach your daily routines to your schedule, ensuring health, learning, and wellbeing habits get the same intentional attention as professional tasks. Goal setting tools break ambitious long-term objectives into concrete weekly milestones and daily actions, creating a clear line of sight from your daily choices to your biggest dreams. Reflection prompts encourage daily journaling about wins, challenges, and lessons learned. PlannerGenius is for those who want to stop reacting to life and start designing it.",
+    "size": 44,
+    "reviews": 8900,
+    "ratingAvg": 4.7,
+    "downloads": "0.89M",
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 190 },
+      { "name": "3 star", "count": 700 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 5100 }
+    ]
+  },
+  {
+    "id": 23,
+    "title": "FlashCard Forge",
+    "companyName": "Memory Masters LLC",
+    "image": "https://images.unsplash.com/photo-1584697964404-167ffdb23669",
+    "description": "FlashCard Forge is a best-in-class flashcard creation and study platform that combines the proven power of spaced repetition with modern AI tools to help students, language learners, and knowledge professionals memorize anything faster and retain it longer. The app's core engine uses the scientifically validated spaced repetition algorithm to schedule card reviews at the precise intervals that maximize long-term retention, ensuring you review information just before you would naturally forget it. This approach dramatically outperforms traditional study methods, allowing users to memorize twice as much in half the time. Card creation is effortless and flexible, supporting text, images, audio, mathematical formulas, code snippets, and even video clips to accommodate every subject and learning style. The AI card generator can automatically create high-quality flashcard sets from any uploaded text, PDF, or study notes, saving hours of manual creation time and letting you focus on studying rather than preparation. A massive public library of shared card decks covers virtually every subject imaginable — from medical school anatomy and bar exam law to JLPT Japanese vocabulary and AWS cloud certifications — giving you a head start rather than starting from scratch. The active recall testing mode challenges you to retrieve information from memory before revealing the answer, a technique proven to be far more effective for learning than passive re-reading. Customizable card themes and layouts make studying visually engaging, and the beautiful card statistics dashboard shows exactly how many cards you have mastered, are learning, and are due for review. Offline mode ensures you can study anywhere. FlashCard Forge is the last flashcard app you will ever need.",
+    "size": 40,
+    "reviews": 31200,
+    "ratingAvg": 4.9,
+    "downloads": "5.8M",
+    "ratings": [
+      { "name": "1 star", "count": 210 },
+      { "name": "2 star", "count": 380 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 7800 },
+      { "name": "5 star", "count": 21710 }
+    ]
+  },
+  {
+    "id": 24,
+    "title": "VoiceNotes AI",
+    "companyName": "SpeakEasy Tech",
+    "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7",
+    "description": "VoiceNotes AI is a revolutionary voice-first productivity application that uses state-of-the-art speech recognition and artificial intelligence to transform spoken words into organized, searchable, actionable notes with remarkable accuracy and speed. In a world where typing feels increasingly inadequate for capturing the velocity of human thought, VoiceNotes AI provides a natural, effortless way to externalize ideas, capture insights, record meeting minutes, and build a rich personal knowledge base — all through the simple act of speaking. The app's real-time transcription engine handles multiple accents, languages, and speaking styles with impressive accuracy, producing clean, readable text from natural speech without requiring unnatural pauses or dictation-style delivery. AI-powered post-processing automatically cleans up filler words, adds punctuation, and structures your transcription into readable paragraphs, making the output immediately usable. Smart summarization distills long voice notes into concise bullet-point summaries, perfect for reviewing captured ideas quickly. The action item extraction feature scans your transcriptions automatically and identifies tasks, commitments, and follow-up items, adding them to your task manager with appropriate context. Meeting recording mode handles multi-speaker conversations with speaker identification, making meeting minutes practically write themselves. VoiceNotes AI's semantic search capability allows you to find any note by searching for concepts and related ideas, not just exact keywords — ensuring your knowledge base becomes increasingly useful as it grows. Integration with popular note-taking apps, calendars, and project management tools creates a connected productivity ecosystem. VoiceNotes AI is the ultimate tool for capturing and leveraging the full power of your spoken thoughts.",
+    "size": 64,
+    "reviews": 7800,
+    "ratingAvg": 4.5,
+    "downloads": "0.62M",
+    "ratings": [
+      { "name": "1 star", "count": 160 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 780 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 4110 }
+    ]
+  },
+  {
+    "id": 25,
+    "title": "EssayPerfect",
+    "companyName": "WriteRight AI",
+    "image": "https://images.unsplash.com/photo-1519074002996-a69e7ac46a42",
+    "description": "EssayPerfect is a comprehensive academic writing assistance platform designed to help students at every level produce clearer, more compelling, and better-structured written work. Whether you are tackling your first high school essay, preparing a university dissertation, or writing a graduate school application, EssayPerfect provides the guidance, tools, and feedback needed to elevate your writing from adequate to exceptional. The platform's intelligent writing editor provides real-time feedback on grammar, punctuation, spelling, and style as you type, catching errors before they accumulate and explaining the rules behind each suggestion so you learn rather than just correct. Beyond surface-level proofreading, EssayPerfect's structural analysis examines your essay's organization, identifying weak thesis statements, unsupported claims, logical gaps, and unclear transitions that undermine your argument's effectiveness. The argument strength analyzer evaluates how well your evidence supports your claims and suggests additional types of evidence that would strengthen your case. A built-in research assistant helps you find relevant academic sources, generate properly formatted citations in APA, MLA, Chicago, and Harvard styles, and create a bibliography automatically. The plagiarism checker cross-references your writing against billions of web pages and academic papers, ensuring your work is entirely original before submission. Vocabulary enhancement tools suggest more precise, sophisticated word choices that elevate your academic voice without sacrificing clarity. The personal improvement tracking system identifies recurring writing weaknesses and provides targeted exercises to help you grow as a writer over time. Writing prompts and essay templates for common assignment types provide helpful starting frameworks. EssayPerfect is committed to making excellent academic writing accessible to every student.",
+    "size": 53,
+    "reviews": 14200,
+    "ratingAvg": 4.6,
+    "downloads": "1.6M",
+    "ratings": [
+      { "name": "1 star", "count": 220 },
+      { "name": "2 star", "count": 340 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 4500 },
+      { "name": "5 star", "count": 8040 }
+    ]
+  },
+  {
+    "id": 26,
+    "title": "MusicTheory Master",
+    "companyName": "Harmony Digital",
+    "image": "https://images.unsplash.com/photo-1524499982521-1ffd58dd89ea",
+    "description": "MusicTheory Master is a comprehensive and beautifully designed music theory education app for aspiring musicians, music students, hobbyists, and professional musicians looking to deepen their theoretical understanding. Whether you are a complete beginner curious about how music works or an advanced player wanting to master jazz harmony, counterpoint, or orchestration, MusicTheory Master offers a structured, engaging curriculum that makes even complex musical concepts approachable and enjoyable. The app begins with the absolute fundamentals — reading notes on the staff, understanding rhythm and meter, and identifying basic intervals — and progresses systematically through scales, modes, chords, chord progressions, harmonic analysis, musical form, counterpoint, ear training, and advanced harmony. Interactive exercises accompany every lesson, allowing you to immediately apply what you have learned in a musical context. The ear training module is one of the app's standout features, using adaptive exercises to develop your ability to identify intervals, chords, scales, and rhythms by ear — a foundational skill for improvisation, composition, and playing by ear. The virtual piano and guitar keyboards allow you to hear and visualize every concept discussed in the lessons, making the connection between theory and sound immediate and intuitive. Sight-reading exercises progressively build your ability to read and perform music notation fluently. A rich library of analysis examples draws from classical, jazz, pop, and film music, showing how theoretical principles operate in the music you already know and love. Custom exercise builders allow teachers to create tailored assignments for their students. MusicTheory Master has helped over a million musicians unlock a deeper relationship with the music they love.",
+    "size": 78,
+    "reviews": 9700,
+    "ratingAvg": 4.8,
+    "downloads": "0.88M",
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 470 },
+      { "name": "4 star", "count": 2600 },
+      { "name": "5 star", "count": 6400 }
+    ]
+  },
+  {
+    "id": 27,
+    "title": "LearnCode 360",
+    "companyName": "DevPath Academy",
+    "image": "https://images.unsplash.com/photo-1532012197267-da84d127e765",
+    "description": "LearnCode 360 is a full-stack coding education platform that takes complete beginners from zero programming knowledge to job-ready software developer skills through a structured, project-based curriculum designed by industry professionals. Unlike scattered tutorial websites or isolated online courses, LearnCode 360 provides a cohesive, end-to-end learning journey with clear milestones, real-world projects, and career-focused outcomes. The curriculum covers front-end development with HTML, CSS, JavaScript, and React; back-end development with Node.js, Python, and SQL; mobile app development; data science foundations; and cloud deployment — giving learners a comprehensive, versatile skill set that opens doors across the technology industry. Every lesson is followed by hands-on coding challenges that reinforce concepts through practice rather than passive reading. The integrated code editor runs entirely within the browser, eliminating the frustrating setup process that derails many beginners before they write their first line. Real-world capstone projects such as building a full e-commerce site, a social media app, or a data dashboard give learners portfolio-worthy work to showcase to future employers. An AI coding mentor provides instant help when you get stuck, offering hints, debugging assistance, and explanations without simply giving away the answer. Peer code review features connect learners with each other for constructive feedback, simulating the real-world pull request process. Live mentorship sessions with professional developers provide guidance, motivation, and industry insights. A job placement support program includes resume reviews, mock interviews, and connections to hiring partners. LearnCode 360 is the most direct path from aspiring coder to employed developer.",
+    "size": 105,
+    "reviews": 17300,
+    "ratingAvg": 4.7,
+    "downloads": "1.9M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 330 },
+      { "name": "3 star", "count": 1050 },
+      { "name": "4 star", "count": 5200 },
+      { "name": "5 star", "count": 10520 }
+    ]
+  },
+  {
+    "id": 28,
+    "title": "HabitStack",
+    "companyName": "LifeDesign Labs",
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2",
+    "description": "HabitStack is a science-backed habit building and behavior change application that helps individuals design, establish, and sustain the daily practices that lead to a healthier, more productive, and more fulfilling life. Built on the latest research in behavioral psychology, neuroscience, and motivational science, HabitStack provides the structure, accountability, and insight needed to transform good intentions into lasting automatic behaviors. The app's habit design wizard walks you through the process of defining your habits using proven implementation intentions — specifying exactly when, where, and how you will perform each behavior — dramatically increasing the likelihood of follow-through compared to vague goal-setting. The habit stacking technique encouraged by the app guides you to anchor new habits to existing ones, using your current routines as natural cues for the behaviors you want to add. Customizable reminder systems ensure you never forget your daily commitments, with intelligent timing that respects your schedule and avoids notification fatigue. The streak system provides powerful visual motivation by showing your consecutive days of habit completion, and the app thoughtfully handles missed days with flexible recovery options that prioritize long-term consistency over short-term perfection. Detailed habit analytics reveal which habits are thriving, which are struggling, and how your habits correlate with your self-reported mood and energy levels. The habit library offers hundreds of pre-designed habit templates across health, fitness, learning, mindfulness, productivity, relationships, and finance categories, each with evidence-based guidance on effective implementation. Community accountability features let you share your habits with friends or join habit challenges with thousands of others. HabitStack turns the aspiration of self-improvement into the reality of daily action.",
+    "size": 38,
+    "reviews": 20100,
+    "ratingAvg": 4.8,
+    "downloads": "3.1M",
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 880 },
+      { "name": "4 star", "count": 5800 },
+      { "name": "5 star", "count": 13010 }
+    ]
+  },
+  {
+    "id": 29,
+    "title": "ExamAce",
+    "companyName": "PrepWise Education",
+    "image": "https://images.unsplash.com/photo-1492724441997-5dc865305da4",
+    "description": "ExamAce is a specialized test preparation platform that helps students achieve their best possible scores on major standardized examinations through targeted practice, adaptive learning technology, and comprehensive study resources. Covering the SAT, ACT, GRE, GMAT, LSAT, MCAT, and dozens of other national and international examinations, ExamAce provides everything a test-taker needs from initial diagnostic assessment through final confidence-building practice under timed, exam-realistic conditions. The platform's adaptive practice engine is its most powerful feature: rather than presenting questions in a fixed order, ExamAce continuously analyzes your performance across every sub-skill tested in your target exam and dynamically prioritizes the question types and content areas that will generate the greatest score improvement for the time you invest. This personalized approach ensures every minute of practice is maximally efficient. Full-length practice tests are meticulously modeled after the real exam in format, timing, difficulty, and scoring methodology, providing an accurate preview of test day conditions that reduces anxiety and builds confidence. Detailed score reports after every practice test break down your performance by section, question type, difficulty level, and content area, giving you a precise roadmap of what to work on next. Expert video lessons created by top educators and high-scoring tutors cover every concept and strategy tested on your target exam. The strategy guide library teaches proven test-taking approaches — from time management and process of elimination to advanced mathematical strategies and reading comprehension techniques — that go beyond content knowledge to address the unique demands of standardized test formats. ExamAce has helped hundreds of thousands of students achieve their target scores and gain admission to their dream schools.",
+    "size": 92,
+    "reviews": 25800,
+    "ratingAvg": 4.7,
+    "downloads": "2.7M",
+    "ratings": [
+      { "name": "1 star", "count": 270 },
+      { "name": "2 star", "count": 420 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 7800 },
+      { "name": "5 star", "count": 15910 }
+    ]
+  },
+  {
+    "id": 30,
+    "title": "ProjectPilot",
+    "companyName": "SkyView Systems",
+    "image": "https://images.unsplash.com/photo-1588702547923-7093a6c3ba33",
+    "description": "ProjectPilot is a robust project management application designed for creative professionals, agencies, and service businesses that need to manage client projects, deadlines, resources, and finances all in one place. Unlike enterprise-focused tools that overwhelm small teams with complexity, ProjectPilot is built with the perfect balance of powerful features and intuitive simplicity, delivering everything a creative team needs without the steep learning curve or overwhelming configuration. The client portal feature allows you to share project timelines, deliverables, and progress updates with clients in a branded, professional interface, reducing the back-and-forth emails that consume so much of a creative professional's time. The visual project timeline provides an elegant overview of all active projects, their phases, milestones, and deadlines at a glance, making it easy to spot scheduling conflicts and capacity issues before they become problems. Time tracking built directly into tasks connects your effort to your billable hours automatically, producing accurate invoices with a single click. Budget management tools track actual spending against project estimates in real time, alerting you when a project is trending over budget so you can address scope creep proactively. Template library features allow you to save your most common project structures as reusable templates, dramatically speeding up the setup of new projects. File management keeps all project assets, client approvals, and revision histories organized and accessible to the right team members. The workload view ensures your team's capacity is balanced across projects, preventing burnout and ensuring consistent quality of output. Project health scores give you an at-a-glance sense of which projects are on track and which need attention. ProjectPilot is the command center every creative business needs.",
+    "size": 60,
+    "reviews": 6700,
+    "ratingAvg": 4.5,
+    "downloads": "0.49M",
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 210 },
+      { "name": "3 star", "count": 680 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 3580 }
+    ]
+  },
+  {
+    "id": 31,
+    "title": "PhilosophyCircle",
+    "companyName": "Socratic Labs",
+    "image": "https://images.unsplash.com/photo-1516321497487-e288fb19713f",
+    "description": "PhilosophyCircle is an immersive philosophy education and discussion platform that makes the great ideas of Western and Eastern philosophical traditions accessible, engaging, and directly relevant to the questions and challenges of contemporary life. Designed for curious minds at every level — from high school students encountering philosophy for the first time to lifelong learners who want to deepen their engagement with ideas — PhilosophyCircle combines scholarly rigor with accessible presentation to create a philosophy education experience unlike any other. The app's curriculum is organized around the major branches of philosophy including metaphysics, epistemology, ethics, political philosophy, aesthetics, logic, and philosophy of mind, with each branch explored through its historical development and contemporary significance. Original texts from history's greatest thinkers including Plato, Aristotle, Descartes, Kant, Nietzsche, Wittgenstein, and many others are presented alongside contemporary explanations and contextual commentary that make them genuinely comprehensible rather than frustratingly opaque. Animated explainer videos bring abstract philosophical thought experiments — the Trolley Problem, Plato's Cave, Zeno's Paradoxes, Descartes' Evil Demon — to vivid life in ways that stick in the memory. The Socratic dialogue feature creates AI-powered philosophical discussions where you can engage directly with the ideas of history's greatest philosophers, testing your own views and reasoning through structured intellectual exchange. Discussion forums moderated by philosophy instructors provide a space for respectful, rigorous debate about the questions that matter most. Logic training exercises develop the critical reasoning and argumentation skills that make philosophy practically valuable in every area of life.",
+    "size": 56,
+    "reviews": 4200,
+    "ratingAvg": 4.6,
+    "downloads": "0.29M",
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 380 },
+      { "name": "4 star", "count": 1350 },
+      { "name": "5 star", "count": 2300 }
+    ]
+  },
+  {
+    "id": 32,
+    "title": "WriteDaily",
+    "companyName": "StoryForge Studios",
+    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+    "description": "WriteDaily is a creative writing development platform that helps aspiring writers build a consistent writing practice, develop their craft through structured exercises and feedback, and ultimately produce the stories, essays, and creative works they have always dreamed of writing. The app is built on one foundational conviction: the single most important factor in becoming a good writer is writing every day, and WriteDaily makes that daily practice as easy, enjoyable, and rewarding as possible. The daily writing prompt engine generates fresh, evocative prompts every morning across a range of genres and styles — flash fiction, personal essays, poetry, character sketches, dialogue exercises, and worldbuilding vignettes — giving you an immediate starting point for your writing session. A distraction-free writing environment with customizable fonts, line spacing, background ambiance, and full-screen mode creates the optimal conditions for entering creative flow. The app tracks your writing streak and word count history, providing the motivational feedback loop that helps writers maintain momentum through the inevitable difficult days. The craft library contains hundreds of lessons on fundamental writing skills including character development, dialogue, point of view, pacing, description, structure, and revision technique — all written by published authors and presented with concrete examples and exercises. Beta reader exchange features connect writers at similar stages to exchange work and provide thoughtful, structured feedback through guided critique frameworks. Community writing challenges including NaNoWriMo-style monthly events create shared momentum and camaraderie among users. Genre-specific writing paths for literary fiction, fantasy, mystery, romance, and memoir guide writers through the particular conventions and techniques of their chosen form. WriteDaily is where writers find their voice.",
+    "size": 46,
+    "reviews": 8100,
+    "ratingAvg": 4.7,
+    "downloads": "0.72M",
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 170 },
+      { "name": "3 star", "count": 580 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 4750 }
+    ]
+  },
+  {
+    "id": 33,
+    "title": "EcoLearn",
+    "companyName": "GreenFuture Education",
+    "image": "https://images.unsplash.com/photo-1551844548-1ddead371f8d",
+    "description": "EcoLearn is an environmental science and sustainability education platform that empowers students, educators, and environmentally conscious citizens with the knowledge, skills, and inspiration needed to understand and address the ecological challenges of our time. From the complex dynamics of climate change and biodiversity loss to the practical solutions emerging from renewable energy, circular economy design, and regenerative agriculture, EcoLearn provides comprehensive, scientifically accurate, and solution-focused environmental education for all ages. The curriculum spans ecology, climate science, environmental policy, sustainable technology, conservation biology, environmental justice, and ecological economics, presented through engaging narratives, stunning nature photography, documentary-style videos, and interactive data visualizations. Real-time environmental data integration connects learners with live feeds from climate monitoring stations, deforestation trackers, ocean temperature sensors, and biodiversity databases, making abstract environmental trends concrete and immediate. The carbon footprint calculator and personal sustainability challenge help users understand their own environmental impact and take meaningful action in their daily lives. Virtual field trips to ecosystems around the world — from Amazon rainforests and Arctic tundra to coral reefs and urban green spaces — provide immersive learning experiences that inspire wonder and connection with the natural world. Student-led environmental project tools support the design and documentation of local sustainability initiatives, connecting classroom learning to real-world impact. The community forum connects EcoLearn users with environmental educators, scientists, and activists from around the world. EcoLearn believes that an informed, engaged citizenry is the most powerful force for environmental protection and that education is the foundation of a sustainable future.",
+    "size": 80,
+    "reviews": 5500,
+    "ratingAvg": 4.6,
+    "downloads": "0.38M",
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 480 },
+      { "name": "4 star", "count": 1750 },
+      { "name": "5 star", "count": 3030 }
+    ]
+  },
+  {
+    "id": 34,
+    "title": "DebateCoach",
+    "companyName": "Rhetoric Pro",
+    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d",
+    "description": "DebateCoach is a comprehensive platform for developing persuasive communication, critical argumentation, and debate skills through structured practice, expert coaching, and competitive experience. Designed for competitive debaters, law students, business professionals, and anyone who wants to communicate more persuasively and think more clearly under pressure, DebateCoach provides a complete ecosystem for argumentation training. The app covers major debate formats including British Parliamentary, Lincoln-Douglas, Policy, and Public Forum debate, with format-specific coaching on strategy, case structure, cross-examination technique, and judging criteria. An extensive argument library organized by topic provides research summaries, strong arguments for both sides of hundreds of controversial issues, and evidence examples that debaters can study and adapt for their own cases. The AI practice debate feature allows you to debate against an intelligent opponent that adapts its arguments to your responses, providing a realistic practice partner available at any hour. Speech analysis tools record and evaluate your delivery, providing feedback on pace, clarity, filler words, eye contact cues, and overall persuasiveness. Case construction guides walk you through the process of building a logically sound, evidence-supported argument from first principles. Logical fallacy training teaches you to identify and counter the most common reasoning errors that weaken arguments, both in your own preparation and during live debate. Live tournament simulation mode creates realistic competitive pressure to help debaters perform their best under timed conditions. A growing library of example speeches, flow sheets, and judging paradigms from experienced coaches and competitors provides models for study. DebateCoach has produced regional, national, and international debate champions.",
+    "size": 63,
+    "reviews": 4900,
+    "ratingAvg": 4.7,
+    "downloads": "0.34M",
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 390 },
+      { "name": "4 star", "count": 1520 },
+      { "name": "5 star", "count": 2800 }
+    ]
+  },
+  {
+    "id": 35,
+    "title": "ArtStudio Learn",
+    "companyName": "Canvas Digital Co",
+    "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d",
+    "description": "ArtStudio Learn is a comprehensive visual arts education platform that teaches drawing, painting, digital illustration, and design fundamentals through step-by-step video instruction, guided practice exercises, and personalized AI feedback. Whether you are a complete beginner who has never picked up a pencil with artistic intent, or an intermediate artist looking to break through a plateau and develop a distinctive personal style, ArtStudio Learn provides the structured, supportive learning environment needed to make genuine artistic progress. The curriculum begins with essential foundational skills — proportion, perspective, value, line quality, and composition — before advancing to more complex topics including color theory, figure drawing, portrait painting, landscape composition, and digital illustration techniques. Each lesson is delivered by professional artists and art educators whose teaching is both technically precise and personally inspiring. The step-by-step project system guides you through complete artworks from initial sketch to finished piece, building your skills and confidence with every completed project. ArtStudio Learn's AI art feedback tool analyzes your submitted artwork and provides specific, actionable feedback on proportions, values, composition, color relationships, and technical execution — approximating the guidance of a professional art teacher. A vast library of reference materials including anatomy references, color palettes, perspective grids, and texture libraries supports your practice sessions. The community gallery allows students to share their work, receive encouragement and critique from peers, and track their progression over time. Live sessions with professional artists provide rare opportunities for direct mentorship and creative dialogue. Monthly creative challenges with themes and constraints push you to grow outside your comfort zone. ArtStudio Learn makes artistic excellence achievable for everyone.",
+    "size": 130,
+    "reviews": 11600,
+    "ratingAvg": 4.8,
+    "downloads": "1.05M",
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 190 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 7500 }
+    ]
+  },
+  {
+    "id": 36,
+    "title": "InboxZero",
+    "companyName": "ClearMind Software",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+    "description": "InboxZero is a revolutionary email management platform designed to end the exhausting, never-ending battle with an overflowing inbox and help professionals achieve a state of email clarity, control, and calm. If you are among the millions of people who feel controlled by their email rather than in command of it, InboxZero provides the tools, workflows, and intelligent automation needed to transform your inbox from a source of stress and distraction into an efficient communication hub that serves your goals rather than consuming your day. The app integrates with Gmail, Outlook, and other major email clients, working within your existing accounts without requiring you to change your email address or migrate your data. The AI-powered email triage engine reads incoming messages and automatically sorts them into intelligent categories — urgent action required, needs reply today, informational reading, newsletters, and automated notifications — so you can process the most important emails first without wading through low-priority messages. Smart reply suggestions generate contextually appropriate response drafts that you can send with minimal editing, dramatically reducing the time spent on routine correspondence. The scheduling assistant handles meeting coordination emails entirely, checking your calendar and proposing times automatically without the exhausting back-and-forth that typically characterizes meeting scheduling. Email templates for your most common types of responses ensure consistent, professional communication without starting from scratch each time. Unsubscribe management tools identify newsletters and marketing emails with one-click unsubscribe, reducing inbox volume at its source. The focus mode surfaces only the emails that require your attention right now, hiding everything else until you are ready. InboxZero gives you your time and mental energy back.",
+    "size": 45,
+    "reviews": 9400,
+    "ratingAvg": 4.5,
+    "downloads": "0.86M",
+    "ratings": [
+      { "name": "1 star", "count": 170 },
+      { "name": "2 star", "count": 280 },
+      { "name": "3 star", "count": 870 },
+      { "name": "4 star", "count": 2900 },
+      { "name": "5 star", "count": 5180 }
+    ]
+  },
+  {
+    "id": 37,
+    "title": "PhysicsLab VR",
+    "companyName": "Quantum Learn Technologies",
+    "image": "https://images.unsplash.com/photo-1517433456452-f9633a875f6f",
+    "description": "PhysicsLab VR is a cutting-edge physics education application that uses augmented reality and three-dimensional interactive simulations to make one of the most challenging school subjects visually intuitive, experimentally engaging, and genuinely comprehensible for students at every level. Physics has traditionally been a subject where many students struggle to bridge the gap between abstract mathematical formulas and the physical phenomena those formulas describe — PhysicsLab VR closes that gap by placing students directly inside the physics, letting them see, manipulate, and experiment with the forces, fields, waves, and particles that govern our universe. The app's simulation library covers the full secondary and undergraduate physics curriculum including classical mechanics, kinematics, dynamics, energy and thermodynamics, electricity and magnetism, optics, waves, quantum mechanics, and relativity. Each topic includes multiple interactive experiments where students adjust variables and observe the resulting effects in real time, developing genuine physical intuition rather than rote formula application. The virtual laboratory environment allows experiments that are impossible, dangerous, or prohibitively expensive in real school labs — from firing projectiles at relativistic speeds to manipulating individual electrons in a circuit to simulating the gravitational dynamics of planetary systems. Detailed explanations accompany every simulation, contextualizing the mathematical relationships being illustrated and connecting them to real-world applications. The problem-solving workshop provides structured practice with immediate visual feedback, showing students physically why their numerical answers are right or wrong. Collaborative lab sessions allow student pairs or small groups to conduct virtual experiments together. Physics careers exploration profiles inspire students by connecting curriculum content to the work of real physicists in academia, engineering, medicine, and technology.",
+    "size": 150,
+    "reviews": 7100,
+    "ratingAvg": 4.7,
+    "downloads": "0.51M",
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 560 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 4100 }
+    ]
+  },
+  {
+    "id": 38,
+    "title": "FinanceFluent",
+    "companyName": "WealthWise Education",
+    "image": "https://images.unsplash.com/photo-1573164574572-cb89e39749b4",
+    "description": "FinanceFluent is a personal finance education and management platform that empowers individuals to take control of their financial lives through education, planning tools, and behavioral insights grounded in behavioral economics and financial psychology. Financial literacy is one of the most critical life skills, yet it is rarely taught comprehensively in schools, leaving most adults to navigate complex financial decisions — budgeting, saving, investing, managing debt, insurance, taxes, and retirement planning — without adequate knowledge or guidance. FinanceFluent addresses this gap with a comprehensive, jargon-free curriculum that covers every major dimension of personal finance in a clear, practical, and empowering way. The learning path begins with budgeting and cash flow fundamentals, progresses through debt management and credit optimization, introduces investing principles including stocks, bonds, index funds, and retirement accounts, and advances to estate planning, tax optimization, and wealth building strategies. Every concept is illustrated with real-world examples, interactive calculators, and visual scenarios that make abstract financial principles immediately concrete. The personal finance dashboard connects to your bank accounts and credit cards to automatically track income, expenses, and net worth, giving you a real-time picture of your financial health. Smart budget tools categorize your spending, identify patterns, and highlight opportunities to save more without sacrificing quality of life. The investment simulator allows you to practice investing strategies with virtual money before committing real capital, building knowledge and confidence simultaneously. Personalized action plans provide specific, prioritized recommendations based on your unique financial situation and goals. FinanceFluent makes financial confidence achievable for everyone, regardless of where they are starting from.",
+    "size": 70,
+    "reviews": 13800,
+    "ratingAvg": 4.8,
+    "downloads": "1.7M",
+    "ratings": [
+      { "name": "1 star", "count": 130 },
+      { "name": "2 star", "count": 220 },
+      { "name": "3 star", "count": 750 },
+      { "name": "4 star", "count": 4100 },
+      { "name": "5 star", "count": 8600 }
+    ]
+  },
+  {
+    "id": 39,
+    "title": "SpeedRead Pro",
+    "companyName": "Rapid Knowledge Inc",
+    "image": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b",
+    "description": "SpeedRead Pro is a scientifically designed reading speed and comprehension enhancement application that helps busy professionals, avid readers, and ambitious students dramatically increase the rate at which they consume and retain written information. In a world where the amount of important reading — professional reports, research papers, books, articles, and emails — continues to grow while available time stays constant, the ability to read faster without sacrificing comprehension is an increasingly valuable skill. SpeedRead Pro trains this skill systematically through a research-backed curriculum that addresses all the habits and limitations that make the average person read far slower than their potential allows. The app begins with a baseline assessment that measures your current reading speed and comprehension level across different text types, providing the starting data needed to track your progress accurately over time. The training program then systematically addresses the three primary speed barriers: subvocalization (reading words aloud in your head), regression (unconsciously re-reading text already processed), and limited visual span (reading one word at a time rather than chunks of text simultaneously). Guided exercises using progressive text presentation, eye movement training, and attention focusing techniques directly target these habits, producing measurable improvements in reading rate within weeks of regular practice. The comprehension training module ensures speed gains are matched by retention improvements, teaching active reading strategies including strategic skimming, structured note-taking, and information hierarchy recognition. A rich reading library provides practice texts across dozens of topics and complexity levels, keeping training material varied and engaging. Progress tracking celebrates milestones and adjusts training intensity based on your improvement trajectory. SpeedRead Pro is trusted by executives, students, and readers in over 80 countries.",
+    "size": 35,
+    "reviews": 11900,
+    "ratingAvg": 4.6,
+    "downloads": "1.35M",
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 290 },
+      { "name": "3 star", "count": 910 },
+      { "name": "4 star", "count": 3700 },
+      { "name": "5 star", "count": 6820 }
+    ]
+  },
+  {
+    "id": 40,
+    "title": "MindfulWork",
+    "companyName": "Serenity Productivity",
+    "image": "https://images.unsplash.com/photo-1529070538774-1843cb3265df",
+    "description": "MindfulWork is a holistic wellbeing and productivity platform that integrates mindfulness practices, stress management tools, and intentional work techniques to help professionals achieve sustainable high performance without burning out. In an era where the boundaries between work and personal life have dissolved and the pressure to be constantly available and productive has reached unsustainable levels, MindfulWork offers a thoughtful counterbalance — teaching individuals to work with greater focus, energy, and meaning rather than simply more hours. The app's morning routine builder helps you start each day with a personalized sequence of mindfulness practices, intention setting, physical movement prompts, and priority planning that sets a calm, purposeful tone for the hours ahead. Guided meditation sessions ranging from two to thirty minutes address specific work-related challenges including pre-meeting anxiety, creative blocks, decision fatigue, interpersonal tension, and end-of-day decompression. Breathing exercises and grounding techniques provide rapid stress relief tools that can be used discreetly during the workday without requiring a dedicated practice session. The energy management system teaches users to recognize their natural ultradian rhythms — the 90-minute cycles of high and low cognitive energy that repeat throughout the day — and schedule their work accordingly, doing demanding cognitive tasks during energy peaks and routine tasks during natural recovery phases. Burnout prevention tools monitor your work patterns and wellbeing self-assessments over time, providing early warning signals when your stress levels and recovery quality indicate elevated risk. Work boundary setting tools help you define and communicate clear limits around your working hours, availability, and response times. The digital detox scheduler creates phone-free periods that protect your attention and mental restoration. MindfulWork proves that taking care of yourself is not separate from performing at your best — it is the foundation of it.",
+    "size": 50,
+    "reviews": 16200,
+    "ratingAvg": 4.9,
+    "downloads": "2.8M",
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 620 },
+      { "name": "4 star", "count": 4100 },
+      { "name": "5 star", "count": 11200 }
+    ]
+  }
+]

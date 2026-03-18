@@ -5,7 +5,7 @@ import hero from "../../assets/hero.png";
 import StateSection from "../StateSection/StateSection";
 const Banner = () => {
   return (
-    <div className="relative mb-40 lg:mb-56">
+    <div className="relative mb-155 lg:mb-80">
       {" "}
       <div className="max-w-11/12 mx-auto">
         {" "}
