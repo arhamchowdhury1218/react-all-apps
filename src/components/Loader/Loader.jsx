@@ -1,15 +1,11 @@
 import React from "react";
+import { Commet, Riple } from "react-loading-indicators";
 
 const Loader = () => {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen">
-      <div className="relative w-16 h-16">
-        <div className="absolute inset-0 rounded-full border-4 border-purple-100" />
-        <div className="absolute inset-0 rounded-full border-4 border-transparent border-t-[#632EE3] animate-spin" />
-      </div>
-      <p className="mt-4 text-sm font-medium text-[#632EE3] tracking-widest uppercase animate-pulse">
-        Loading...
-      </p>
+      {/* <Riple color="#901bd3" size="medium" text="" textColor="" /> */}
+      <Commet color={["#32cd32", "#327fcd", "#cd32cd", "#cd8032"]} />
     </div>
   );
 };
