@@ -3,7 +3,6 @@ import { Link } from "react-router";
 
 const TrendingApps = ({ data }) => {
   const eightDatas = data?.slice(0, 8);
-  // const eightDatas = Array.isArray(data) ? data.slice(0, 8) : [];
   return (
     <div>
       <div className="max-w-11/12 mx-auto">
