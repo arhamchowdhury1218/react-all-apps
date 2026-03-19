@@ -1,11 +1,11 @@
-import React from "react";
 import appError from "../../assets/App-Error.png";
+import { Link } from "react-router";
 
 const AppNotFound = () => {
   return (
     <div className="p-20 flex flex-col justify-center items-center gap-10">
       <div className="">
-        <img className="h-100 w-100" src={appError} alt="404-Scarecrow" />
+        <img className="h-100 w-100" src={appError} alt="" />
       </div>
       <div className="space-y-5 max-w-full mx-auto text-center">
         <h2 className="text-3xl font-bold">Oops, App not found!</h2>
