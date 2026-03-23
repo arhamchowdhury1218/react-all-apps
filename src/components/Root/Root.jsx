@@ -12,7 +12,6 @@ const Root = () => {
   return (
     <div>
       <div>
-        {" "}
         <Navbar></Navbar>
         <ScrollRestoration />
         <Outlet></Outlet>

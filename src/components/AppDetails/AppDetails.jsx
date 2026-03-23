@@ -1,16 +1,18 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { useLoaderData, useParams } from "react-router";
 import downloadIcon from "../../assets/icon-downloads.png";
 import ratingIcon from "../../assets/icon-ratings.png";
 import reviewIcon from "../../assets/icon-review.png";
 import { BarChart, Bar, XAxis, YAxis, Tooltip } from "recharts";
+import { addToStoreDB } from "../../utility/addToLocalStortage";
+import { getStoredApps } from "../../utility/addToLocalStortage";
 
 const AppDetails = () => {
+  const [installed, setInstalled] = useState(false);
   const { id } = useParams();
   const intId = parseInt(id);
   const appData = useLoaderData();
   const singleAppDetail = appData.find((app) => app.id === intId);
-  console.log(singleAppDetail);
   const {
     companyName,
     description,
@@ -22,6 +24,17 @@ const AppDetails = () => {
     size,
     title,
   } = singleAppDetail;
+  useEffect(() => {
+    const storedApps = getStoredApps();
+    if (storedApps.includes(intId)) {
+      setInstalled(true);
+    }
+  }, [intId]);
+  const handleLocalStorage = (id) => {
+    addToStoreDB(id);
+    setInstalled(true);
+  };
+
   return (
     <div className="max-w-11/12 mx-auto my-10">
       <div className="flex flex-col lg:flex-row items-center gap-5 lg:gap-x-44">
@@ -53,8 +66,20 @@ const AppDetails = () => {
             </div>
           </div>
           <div className="mt-10">
-            <button className="btn btn-success px-20 text-white font-bold">
+            {/* <button
+              onClick={() => handleLocalStorage(intId)}
+              className="btn btn-success px-20 text-white font-bold"
+            >
               Install Now ({size})
+            </button> */}
+            <button
+              onClick={() => handleLocalStorage(intId)}
+              disabled={installed}
+              className={`btn px-20 text-white font-bold ${
+                installed ? "bg-red-700 cursor-not-allowed" : "btn-success"
+              }`}
+            >
+              {installed ? "Installed" : `Install Now (${size})`}
             </button>
           </div>
         </div>
