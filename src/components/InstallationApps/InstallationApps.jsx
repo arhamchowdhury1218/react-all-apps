@@ -18,6 +18,7 @@ const InstallationApps = () => {
     removeFromStoreDB(id);
 
     const updated = installedCurrentApps.filter((appId) => appId !== id);
+    console.log(updated);
     setInstalledCurrentApps(updated);
   };
 

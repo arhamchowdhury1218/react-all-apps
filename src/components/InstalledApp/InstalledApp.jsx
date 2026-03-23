@@ -16,9 +16,6 @@ const InstalledApp = ({ app, onRemove }) => {
     size,
     title,
   } = app;
-  const handleRemove = (id) => {
-    removeFromStoreDB(id);
-  };
   return (
     <div className="flex justify-between items-center">
       <div className="flex gap-10">
