@@ -17,7 +17,7 @@ const InstalledApp = ({ app, onRemove }) => {
     title,
   } = app;
   return (
-    <div className="flex justify-between items-center">
+    <div className="flex flex-col lg:flex-row justify-between items-center space-y-6 lg:space-y-0">
       <div className="flex gap-10">
         <img className="w-20 h-20 rounded-2xl" src={image} alt="" />
         <div className="flex flex-col">
