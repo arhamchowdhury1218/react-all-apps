@@ -78,7 +78,7 @@ const Navbar = () => {
               to="/"
               className="btn btn-ghost text-violet-700 text-xl lg:text-2xl font-bold"
             >
-              HERO.IO
+              AppStoreX
             </div>
           </Link>
         </div>
